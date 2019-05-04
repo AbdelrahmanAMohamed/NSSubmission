@@ -22,4 +22,4 @@ P.S. : Try not to write the password incorrectly too many times or you will be l
 
 10. You can use the Web App now.
 
-Final Note : If you have any problems just watch the video [Network and Security Project Video] in this link : 
+Final Note : If you have any problems just watch the video [Network and Security Project Video] in this link : https://drive.google.com/open?id=1VXd-EIHPRCzKlx61lawBIN6L3Px9BwH6
