@@ -7,6 +7,8 @@ The GitHub repo contains :
 
 
 
+
+
 Instructions for Running Web App
 
 1. You need to have XAMPP and internet connection to run the app.
