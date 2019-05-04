@@ -1,3 +1,12 @@
+The GitHub repo contains :
+
+1. Report.pdf
+2. Ngrok.zip
+3. All files of the web app
+4. This README file
+
+
+
 Instructions for Running Web App
 
 1. You need to have XAMPP and internet connection to run the app.
